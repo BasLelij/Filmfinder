@@ -1,0 +1,13 @@
+@import "variables";
+
+body {
+  background-color: $backgroundbody;
+}
+
+header {
+  background-color: $backgroundbody;
+}
+
+@import "header";
+
+@import "grid";
